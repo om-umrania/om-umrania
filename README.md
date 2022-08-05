@@ -10,7 +10,6 @@ I'm a full stack developer...
 
 AIDS Student | Life Long Learner | C++ Enthusiast
 ## 🛠 Skills
-Javascript, HTML, CSS...
 
 C, C++, Python, HTML, CSS
 ## Other Common Github Profile Sections
@@ -38,11 +37,8 @@ C, C++, Python, HTML, CSS
 </p>
 <p align="left">
 <a href="https://twitter.com/umrania_om" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagar_aute_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/omumrania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-aute" height="30" width="40" /></a>
-<a href="https://instagram.com/om.code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagar_aute_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/omumrania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om-umrania" height="30" width="40" /></a><a href="https://instagram.com/om.umrania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omumrania" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/om1304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="harshal_3073" height="30" width="40" /></a>
 <a href="https://leetcode.com/om-umrania/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshal_3073" height="30" width="40" /></a>
 <a href="https://www.omumrania.com/home" target="blank"><img align="center" src="https://img.icons8.com/emoji/344/link-emoji.png" height="30" width="40" /></a>
-</p>
-
 </p>
