@@ -6,20 +6,20 @@
 
 Learning Enthusiast
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a senior year student and developer...
 
-AIDS Student | Life Long Learner | C++ Enthusiast
+AIDS Student | Lifelong Learner | C++ Enthusiast
 ## 🛠 Skills
 
 C, C++, Python, HTML, CSS
-## Other Common Github Profile Sections
+## Other Common GitHub Profile Sections
 👩‍💻 I'm currently working on Python
 
 🧠 I'm currently learning C++
 
 👯‍♀️ I'm looking to collaborate on Python Project
 
-🤔 I'm looking for help with Internship
+🤔 I'm looking for help with an Internship
 
 💬 Ask me about C++
 
